@@ -14,7 +14,9 @@ This project was meant for studying pattern designs. Concretly, this project use
 
 ## Technologies
 Java
+
 Swing
+
 Jsoup
 
 ## Bibliography
