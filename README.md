@@ -10,7 +10,7 @@ In this RFC browser you are able to:
 
 It has been used the UI framework, Swing. Besides, for the functionality of search the plugin Jsoup, which allow to manage easily the html content from a specific URL.
 
-This project was meant for studying pattern designs. Concretly, this project uses the *Singleton*, *Observer*, *MVC patterns* and *Command*. Futher, the understanding of the *Composite pattern* design through Swing library.
+This project was meant for studying pattern designs. Concretly, this project uses the **Singleton**, **Observer**, **MVC patterns** and **Command**. Futher, the understanding of the **Composite pattern** design through Swing library.
 
 ## Technologies
 Java
